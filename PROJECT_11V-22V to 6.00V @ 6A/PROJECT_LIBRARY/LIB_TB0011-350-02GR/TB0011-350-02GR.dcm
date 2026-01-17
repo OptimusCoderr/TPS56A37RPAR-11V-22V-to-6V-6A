@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TB0011-350-02GR
+D 2 Poles, Screw Type, Horizontal, 3.50 Pitch, 24~18 (AWG), Green, Terminal Block Connector
+K
+F https://www.sameskydevices.com/product/resource/tb0011-350.pdf
+$ENDCMP
+#
+#End Doc Library

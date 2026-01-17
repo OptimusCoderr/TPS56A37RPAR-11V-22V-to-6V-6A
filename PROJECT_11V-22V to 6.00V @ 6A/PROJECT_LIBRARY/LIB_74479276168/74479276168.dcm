@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74479276168
+D WE-PMCI Power Molded Chip Inductor Size 201610; L = 0.68 H; IR = 3.8 A; Isat = 4 A; RDC = 45 m
+K
+F https://www.we-online.com/components/products/download/WE-PMCI_201610_3D+%28rev1%29.pdf
+$ENDCMP
+#
+#End Doc Library
