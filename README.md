@@ -10,22 +10,7 @@
 
 
 
-
-
-
-
-📁 Repository Contents
-Schematic/ – Full Altium schematic files
-PCB/ – Altium PCB project with 3D model
-Gerber/ – RS-274X Gerber files ready for JLCPCB
-PickAndPlace/ – Centroid file for automated assembly
-BOM/ – Bill of Materials (LCSC-compatible)
-Simulation/ – TI WEBENCH® report (PDF)
-Images/ – Renderings and screenshots of the layout
-🤝 Feedback Welcome!
-This design is complete and ready for fabrication—but I welcome constructive critique from the hardware community. If you spot opportunities to improve loop area, thermal performance, or manufacturability, please open an issue or reach out. Your insights will help me grow as a designer.
-
-📌 License🚀 Complete 6A Synchronous Buck Converter — Now Available on GitHub!
+🚀 Complete 6A Synchronous Buck Converter — Now Available on GitHub!
 
 I’m pleased to share my fully completed power delivery design: a high-efficiency, robust buck converter based on the Texas Instruments TPS56A37RPAR, engineered to deliver 6.0 V at 6.0 A from an input voltage range of 11.0 V to 22.0 V.
 
@@ -85,11 +70,14 @@ Seeing the transition from a functional schematic to a manufacturable, high-inte
 📁 Repository Contents
 
 Schematic/ – Full Altium schematic files
+
 PCB/ – Altium PCB project with 3D model
+
 Simulation/ – TI WEBENCH® report (PDF)
+
 Images/ – Renderings and screenshots of the layout
+
 Note: Gerber files (RS-274X), centroid (Pick-and-Place) data, and the Bill of Materials (BOM) are not publicly included in this repository. If you require access to these manufacturing deliverables for evaluation, collaboration, or educational purposes, please contact me directly.
-🤝 Feedback Welcome!
 
 This design is complete and ready for fabrication—but I welcome constructive critique from the hardware community. If you spot opportunities to improve loop area, thermal performance, or manufacturability, please open an issue or reach out. Your insights will help me grow as a designer.
 
@@ -99,4 +87,5 @@ This project is shared under the CERN Open Hardware Licence Version 2 - Strongly
 
 Designed with precision. Built for reliability.
 — Anulunko Chukwuebuka Oliver
+
 
