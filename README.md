@@ -1,6 +1,6 @@
 # TPS56A37RPAR High-Efficiency Buck Converter (11V–22V to 6V @ 6A)
 
-![1]([https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/060ac3c914832b1a914b1142c6bdd86fa5c3bf56/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20181120.png](https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/1528e769342d2c1e9244408d09ab8fcc9b517e84/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20180953.png))
+![1](https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/1528e769342d2c1e9244408d09ab8fcc9b517e84/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20180953.png)
 ![6](https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/b5e8a8b9744c9df8e675009baf8cbb67be8ed6a3/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20181013.png)
 ![5](https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/b5e8a8b9744c9df8e675009baf8cbb67be8ed6a3/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20181033.png)
 ![4](https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/b5e8a8b9744c9df8e675009baf8cbb67be8ed6a3/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20181120.png)
