@@ -1,6 +1,6 @@
 # TPS56A37RPAR High-Efficiency Buck Converter (11V–22V to 6V @ 6A)
 
-![1]([https://github.com/user-attachments/assets/fce2cec4-eb5b-4188-b770-674e845af99d](https://github.com/OptimusCoderr/TPS56A37RPAR-11V-22V-to-6V-6A/blob/060ac3c914832b1a914b1142c6bdd86fa5c3bf56/PROJECT_11V-22V%20to%206.00V%20%40%206A/pictures/Screenshot%202026-01-17%20181120.png))
+![1](https://github.com/user-attachments/assets/fce2cec4-eb5b-4188-b770-674e845af99d)
 ![6](https://github.com/user-attachments/assets/211de9d6-1ea8-4622-97c5-545894d1a367)
 ![5](https://github.com/user-attachments/assets/28362fad-fc3c-4b29-8470-3e95603487a1)
 ![4](https://github.com/user-attachments/assets/509dcc07-daed-4f9b-b4b0-6eae1bfa1631)
