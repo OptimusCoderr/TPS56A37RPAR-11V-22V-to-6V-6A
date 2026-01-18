@@ -69,9 +69,9 @@ Seeing the transition from a functional schematic to a manufacturable, high-inte
 
 📁 Repository Contents
 
-Schematic/ – Full Altium schematic files
+Schematic/ – Full Kicad schematic files
 
-PCB/ – Altium PCB project with 3D model
+PCB/ – Kicad PCB project with 3D model
 
 Simulation/ – TI WEBENCH® report (PDF)
 
