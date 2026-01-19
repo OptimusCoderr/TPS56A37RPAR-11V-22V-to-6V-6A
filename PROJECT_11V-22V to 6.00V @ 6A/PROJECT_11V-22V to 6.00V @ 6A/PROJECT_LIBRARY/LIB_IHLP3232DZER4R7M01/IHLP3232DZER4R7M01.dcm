@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IHLP3232DZER4R7M01
+D Vishay, IHLP-3232DZ-01, 3232 Shielded Wire-wound SMD Inductor with a Metal Composite Core, 4.7 uH +/-20% Wire-Wound 7.25A
+K
+F https://www.vishay.com/docs/34316/ihlp-3232dz-01.pdf
+$ENDCMP
+#
+#End Doc Library
